@@ -44,11 +44,11 @@
 
 // DATALOGGER BOARD WITH RTC
 // RobotDyne # B072Q1584B
-// Only need to use Analog side to connect SHT20 Probe to
+// Place on top of Arduino Uno
 
 // SCREW TERMINAL SHIELD
 // RobotDyn # B071JK13DP
-// Only need to use Analog side to connect SHT20 Probe to
+// Place on top of Datalogger Board. Only need to use Analog side to connect SHT20 Probe to.
 
 
 //#### DEPENDENCIES ####
